@@ -31,6 +31,7 @@ Realizar compra de materiais escolares, ver notas de aluno, emitir relatórios d
 GITHUB,VS CODE!
 
 ✅ Links úteis
+https://github.com/Natanael2532/uc7-projeto-backend-web.git
 
 
 
