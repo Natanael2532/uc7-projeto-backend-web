@@ -30,6 +30,9 @@ Realizar compra de materiais escolares, ver notas de aluno, emitir relatórios d
 ✅ Tecnologias utilizadas:
 GITHUB,VS CODE!
 
+✅ Links úteis
+
+
 
 ## Desenvolvedor
 
